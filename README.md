@@ -1,8 +1,8 @@
-# Implementing Basic RAG (Retrieval Augmentation Generation) on a given PDF and
+<h1 align="center">Implementing Basic RAG (Retrieval Augmentation Generation) on a given PDF</h1>
 At its core, Retrieval-Augmented Generation involves two main components:
 
-Retriever: This component is responsible for fetching relevant information from a large corpus or database. The retriever is typically based on models like BERT (Bidirectional Encoder Representations from Transformers), which can effectively search and rank documents based on their relevance to the input query.<br>
-Generator: This component takes the information retrieved by the retriever and generates coherent and contextually appropriate responses. The generator is usually a transformer-based model, such as GPT-3 or T5, known for its powerful language generation capabilities.</br>
+<i>Retriever:</i> This component is responsible for fetching relevant information from a large corpus or database. The retriever is typically based on models like BERT (Bidirectional Encoder Representations from Transformers), which can effectively search and rank documents based on their relevance to the input query.<br>
+<i>Generator:</i> This component takes the information retrieved by the retriever and generates coherent and contextually appropriate responses. The generator is usually a transformer-based model, such as GPT-3 or T5, known for its powerful language generation capabilities.</br>
 
 ## Flow Chart of RAG
 
